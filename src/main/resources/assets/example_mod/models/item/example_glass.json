@@ -1,0 +1,6 @@
+{
+  "parent": "example_mod:block/example_glass",
+  "limlib_extra": {
+    "example_mod:sky_example": "example_mod:sky/example_glass"
+  }
+}

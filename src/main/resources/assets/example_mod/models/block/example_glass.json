@@ -1,0 +1,9 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "minecraft:block/glass"
+  },
+  "limlib_extra": {
+    "example_mod:sky_example": "example_mod:shader/example_glass"
+  }
+}

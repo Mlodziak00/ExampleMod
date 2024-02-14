@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=north": [
+      {
+        "model": "example_mod:block/single_plank",
+        "y": 90
+
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "example_mod:block/single_plank",
+        "y": 270
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "example_mod:block/single_plank",
+        "y": 180
+      }
+    ],
+    "facing=east": [
+      {
+        "model": "example_mod:block/single_plank"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "glowshroom_step": {
+    "subtitle": "Bumps Glowshroom",
+    "sounds": [
+      "example_mod:glowshroom_bump"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "powered=false": [
+      {
+        "model": "example_mod:block/glowshroom1"
+      },
+      {
+        "model": "example_mod:block/glowshroom2"
+      },
+      {
+        "model": "example_mod:block/glowshroom3"
+      },
+      {
+        "model": "example_mod:block/glowshroom1",
+        "y": 180
+      },
+      {
+        "model": "example_mod:block/glowshroom2",
+        "y": 180
+      },
+      {
+        "model": "example_mod:block/glowshroom3",
+        "y": 180
+      }
+    ],
+
+    "powered=true": [
+      {
+        "model": "example_mod:block/glowshroom1_pressed"
+      },
+      {
+        "model": "example_mod:block/glowshroom2_pressed"
+      },
+      {
+        "model": "example_mod:block/glowshroom3_pressed"
+      },
+      {
+        "model": "example_mod:block/glowshroom1_pressed",
+        "y": 180
+
+      },
+      {
+        "model": "example_mod:block/glowshroom2_pressed",
+        "y": 180
+
+      },
+      {
+        "model": "example_mod:block/glowshroom3_pressed",
+        "y": 180
+
+      }
+    ]
+  }
+}

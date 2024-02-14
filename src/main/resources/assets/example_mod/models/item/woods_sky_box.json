@@ -1,0 +1,6 @@
+{
+  "parent": "example_mod:block/woods_sky_box",
+  "limlib_extra": {
+    "example_mod:sky_woods": "example_mod:sky/woods_sky_box"
+  }
+}

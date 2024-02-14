@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "example_mod:block/dirty_path"
+      }
+    ]
+  }
+}
